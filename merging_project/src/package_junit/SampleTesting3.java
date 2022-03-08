@@ -13,6 +13,7 @@ class SampleTesting3 {
 		
 		assertEquals(2,s.division(5, 2));
 		fail("Not yet implemented");
+		
 	}
 
 }
